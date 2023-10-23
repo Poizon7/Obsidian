@@ -1,0 +1,1 @@
+Aggregation is when you join several IP ranges together to shrink routing tables

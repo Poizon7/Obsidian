@@ -1,0 +1,1 @@
+This [[Network types|network type]] is based on creating a continuous [[circuit]] between the [[host|hosts]].

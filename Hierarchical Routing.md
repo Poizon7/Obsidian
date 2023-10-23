@@ -1,0 +1,1 @@
+Hierarchical Routing is the ide of [[Routing]] to a range of [[IP address]] first and then [[Routing]] within that range.

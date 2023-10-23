@@ -1,0 +1,1 @@
+Subneting is when you split an IP range for the purpose of organisation

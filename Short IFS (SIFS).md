@@ -1,0 +1,1 @@
+The shortest [[Interframe space (IFS)]] of 10 ms

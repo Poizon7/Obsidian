@@ -1,0 +1,1 @@
+In return to zero each bit is represented by two levels, positive/negative and then zero. This gives a lot of timing data but the [[Baud rate]] is twice the bit rate.

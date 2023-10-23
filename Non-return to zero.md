@@ -1,0 +1,1 @@
+In non return to zero, you can either have two different levels for 1 and 0 (positive/negative), or have a transition before each 1. This second option is less sensitive to [[Attenuation]], but still has problems with synchronisation.

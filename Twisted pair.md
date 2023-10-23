@@ -1,0 +1,1 @@
+Twisted pair cable consist of two separately isolated [[copper]] wires with are twisted around each other to counteract outside disturbances. Twisted par wires are often bundled together.

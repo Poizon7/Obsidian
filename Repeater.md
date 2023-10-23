@@ -1,0 +1,1 @@
+A repeater is a way to extend the signal on the [[Physical layer]]. This is done through [[Regeneration]] and [[Amplification]]. Using a [[Repeater]] requires that the same [[Medium access control (MAC)]] protocol is used on both segments. For example [[Carrier Sense Multiple Access with Collision Detection (CSMA CD)]]. The [[Frame]] propagate to all segments.

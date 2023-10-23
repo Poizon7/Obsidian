@@ -1,0 +1,1 @@
+It is the longest [[Interframe space (IFS)]] of 50 ms

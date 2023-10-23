@@ -1,0 +1,1 @@
+Split up the bit stream and add 1s to each block to increase the synchronisation data in the sequence. This is written as 4B/5B or 8B/10B. This new sequence is then transmitted using some [[Line coding]].

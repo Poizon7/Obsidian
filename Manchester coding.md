@@ -1,0 +1,1 @@
+Manchester code is similar to [[Return to zero]] but only uses positive and negative levels.

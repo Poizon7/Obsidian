@@ -1,0 +1,1 @@
+A hub is a multi port [[Repeater]]

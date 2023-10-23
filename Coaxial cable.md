@@ -1,0 +1,1 @@
+A coaxial cable consists of an inner and outer conductor which are separated from each other and the outside by an isolating material. It has a higher bandwith than a [[twisted pair]] cable.

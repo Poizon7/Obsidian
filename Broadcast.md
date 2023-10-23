@@ -1,0 +1,1 @@
+Broadcast is sending to every address within an address range.

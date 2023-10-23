@@ -1,0 +1,1 @@
+Using a combination of [[Frequency shift keying (FSK)]], [[Amplitude shift keying (ASK)]], and [[Phase shift keying (PSK)]].

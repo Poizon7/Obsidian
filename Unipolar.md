@@ -1,0 +1,1 @@
+A unipolar encoding has two levels, one for 1s and one for 0s. It has a high risk of losing sync at long sequences of 1s or 0s.

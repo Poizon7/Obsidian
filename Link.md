@@ -1,0 +1,1 @@
+A link is a concept at the [[Physical layer]]. A link is a connection between one or more stations.

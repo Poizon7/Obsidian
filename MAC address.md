@@ -1,0 +1,1 @@
+A MAC address is a 48-bit unique identifier used on the [[Data Link Layer]] to identify stations. It is burn onto a [[Read Only Memory (ROM)]] on the stations [[Network Interface Card (NIC)]]. The first 3 bytes are a manufacturer unique number and the rest are a random string of numbers.

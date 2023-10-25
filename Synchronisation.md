@@ -1,5 +1,5 @@
 # [[Synchronous link]]
-Continously sending a 8-bit flap while idle
+Continuously sending a 8-bit flap while idle
 
 # [[Asynchronous link]]
-Sending a preamble to allow the reciever to sync its clock
+Sending a [[Preamble]] to allow the receiver to sync its clock

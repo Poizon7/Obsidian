@@ -19,7 +19,7 @@ It should not lock out [[Packet]] or destinations
 - Lowest end-to-end delay
 - Administrator policies
 # Routing with Multiple Parties
-[[Internet Service Provider (ISP)]], [[Content Delivery Network]], and other parties are richly interconnected often through [[Internet Exchange Points (IXP)]].
+[[Internet Service Provider (ISP)]], [[Content Delivery Network (CDN)]], and other parties are richly interconnected often through [[Internet Exchange Points (IXP)]].
 ## Problems
 ### Scaling
 - IP prefixes
@@ -38,4 +38,4 @@ A service between [[Internet Service Provider (ISP)]]. Transmits data from anoth
 ## [[Flooding]]
 ## [[Link-State Routing]]
 ## [[Hierarchical Routing]]
-## [[Border Gateway Protocol (BGP)]]
+## [[Border Gateway Protocol]]

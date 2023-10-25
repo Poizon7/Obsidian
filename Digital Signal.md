@@ -1,0 +1,1 @@
+A digital signal is one that is discrete in [[amplitude]] and discreet in [[time]].

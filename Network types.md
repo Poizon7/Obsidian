@@ -1,5 +1,5 @@
-- [[LAN]]
-- [[MAN]]
+- [[Local Area Network|LAN]]
+ [[MAN]]
 - [[WAN]]
 
 - [[Packet switched]]
@@ -7,4 +7,4 @@
 
 - [[Public Network]]
 - [[Private Network]]
-- [[Virtual Private Network]]
+- [[Virtual Private Network (VPN)]]

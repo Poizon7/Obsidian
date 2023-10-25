@@ -1,3 +1,7 @@
 [
-  "obsidian-latex-suite"
+  "obsidian-latex-suite",
+  "dataview",
+  "obsidian-map-view",
+  "obsidian-linter",
+  "obsidian-languagetool-plugin"
 ]

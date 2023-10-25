@@ -1,0 +1,1 @@
+An analogue signal is continuous in [[amplitude]] and continuous in [[time]].

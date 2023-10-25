@@ -1,0 +1,1 @@
+A full duplex [[Link]] can send [[Frame]] in both directions simultaneously.

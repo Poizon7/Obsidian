@@ -1,1 +1,0 @@
-Phase shifting the signal to differentiate bits. This is limited by the receivers ability to detect phase shifts.

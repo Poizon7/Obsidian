@@ -1,4 +1,4 @@
-The stop and wait protocol involves the sender sending one [[Frame]], then waiting for an [[Acknowledgement (ACK)]] before sending the next one.
+The stop and wait protocol involves the sender sending one [[Frame]], then waiting for an [[Acknowledgement|ACK]] before sending the next one.
 
 # Utilisation
 

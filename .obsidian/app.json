@@ -1,3 +1,11 @@
 {
-  "vimMode": true
+  "vimMode": true,
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "spellcheckDictionary": [
+    "DHCPDISCOVER",
+    "DHCPOFFER",
+    "DHCPREQUEST",
+    "DHCPACK"
+  ]
 }

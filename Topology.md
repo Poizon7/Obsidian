@@ -1,4 +1,4 @@
-- [[Mesh]]
-- [[Star]]
-- [[Bus]]
-- [[Ring]]
+- [[Mesh Topology]]
+- [[Star Topology]]
+- [[Bus Topology]]
+- [[Ring Topology]]

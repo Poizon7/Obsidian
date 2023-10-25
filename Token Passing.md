@@ -1,1 +1,1 @@
-A type of [[Multiple Access Control]] in a [[Ring]]. A [[Control frame]] called a token is passed around. The node that holds the token has the right to send one frame.
+A type of [[Multiple Access Control]] in a [[Ring Topology]]. A [[Control frame]] called a token is passed around. The node that holds the token has the right to send one frame.

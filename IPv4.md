@@ -1,0 +1,1 @@
+IPv4 is a [[Internet Protocol]] [[Packet]] standard containg 32-bit addresses.

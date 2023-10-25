@@ -3,5 +3,5 @@
 - [[Broadcast]]
 - [[Anycast]]
 - [[Simplex]]
-- [[Duplex]]
+- [[Full Duplex]]
 - [[Half duplex]]

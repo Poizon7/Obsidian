@@ -1,0 +1,1 @@
+A preamble in networking is a long sequence of alternating 1s and 0s to help in clock synchronisation.

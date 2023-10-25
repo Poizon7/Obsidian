@@ -1,0 +1,1 @@
+A half duplex [[Link]] can send [[Frame]] in both directions but only one at a time. This is common in [[Radio wave]] based transmission, for instance in [[IEEE 802.11|Wireless LAN]].

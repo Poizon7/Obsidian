@@ -3,7 +3,7 @@ It can be done using [[amplitude]], [[frequency]], and/or [[phase]]
 Each bit has a constant time
 
 # Examples
-- [[Amplitude shift keying (ASK)]]
-- [[Frequency shift keying (FSK)]]
-- [[Phase shift keying (PSK)]]
-- [[Qadrature amplitude modulation (QAM)]]
+- [[Amplitude Shift Keying|ASK]]
+- [[Frequency Shift Keying|FSK]]
+- [[Phase Shift Keying|PSK]]
+- [[Qadrature Amplitude Modulation|QAM]]

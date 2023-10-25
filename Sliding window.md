@@ -1,6 +1,6 @@
 Sliding window is an improvement on [[Stop-and-wait]] 
 It involves sending N [[Frame]] before stopping
-[[Acknowledgement (ACK)]] acknowledge all [[Frame]] received before it is sent
+[[Acknowledgement|ACK]] acknowledge all [[Frame]] received before it is sent
 When [[Frame]] are acknowledged the window moves forward
 
 # Utilisation
